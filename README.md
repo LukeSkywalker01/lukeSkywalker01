@@ -1,7 +1,7 @@
 # [¡Hola, Soy LukeSkywalker!](https://github.com/LukeSkywalker01#-hola-soy-lukesywalker)
 
 [🔧 Lenguajes:](https://github.com/LukeSkywalker01#-lenguajes)
-- JavaScript
+- JavaScript.
 
 [👑 Proyectos:](https://github.com/LukeSkywalker01#-proyectos)
 - LukeCZ (Discord Bot) - En progreso...
