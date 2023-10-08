@@ -2,6 +2,7 @@
 
 [🔧 Lenguajes:](https://github.com/LukeSkywalker01#-lenguajes)
 - JavaScript.
+- HTML.
 
 [👑 Proyectos:](https://github.com/LukeSkywalker01#-proyectos)
 - LukeCZ (Discord Bot) - En progreso...
