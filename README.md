@@ -4,7 +4,7 @@
 - JavaScript.
 
 ### 👑 Proyectos:
-- LukeCZ *(Discord Bot)* - En progreso...
+- ZorionBot *(Discord Bot)* - En progreso...
 
 <br>
 <a href="https://github.com/LukeSkywalker01">
@@ -16,7 +16,7 @@
 
 
 <div align="left">
-  <a href="https://discord.com/users/1020857426867671042)">
+  <a href="https://discord.com/users/1020857426867671042">
     <img src="https://lanyard.cnrad.dev/api/1020857426867671042" align="left" height="205">
   </a>
 </div>
