@@ -11,12 +11,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeSkywalker01&langs_count=3&theme=dark">
 </a>
 
-[![Discord](https://img.shields.io/static/v1?label=Discord&message=LukeSkywalker%239999&color=blue&style=for-the-badge)](https://discord.com/users/1020857426867671042)
+[![Discord](https://img.shields.io/static/v1?label=Discord&message=LukeSkywalker%231894&color=blue&style=for-the-badge)](https://discord.com/users/1020857426867671042)
 
-
+[![Discord Server](https://discord.com/api/guilds/1112108219788181656/widget.png)](https://discord.gg/qfDS3ktNMe 'ÚNETE A NOSOTROS!!')
 
 <div align="left">
-  <a href="https://discord.com/users/1020857426867671042">
+  <a href="https://discord.com/users/1020857426867671042" title="Mi Usuario De Discord!!">
     <img src="https://lanyard.cnrad.dev/api/1020857426867671042" align="left" height="205">
   </a>
 </div>
+
