@@ -4,7 +4,7 @@
 - JavaScript.
 
 ### 👑 Proyectos:
-- ZorionBot *(Discord Bot)* - En progreso...
+- ZorionBot *(Discord Bot)* - [Proyecto GitHub(En progreso...)](https://github.com/LukeSkywalker/ZorionBot)
 
 <br>
 <a href="https://github.com/LukeSkywalker01">
