@@ -4,11 +4,11 @@
 - JavaScript.
 
 ### 👑 Proyectos:
-- ZorionBot *(Discord Bot)* - [Proyecto GitHub(En progreso...)](https://github.com/LukeSkywalker01/ZorionBot)
+- ZorionBot *(Discord Bot)* - [Proyecto GitHub(En progreso...)](https://github.com/zilliongd/ZorionBot)
 
 <br>
-<a href="https://github.com/LukeSkywalker01">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeSkywalker01&langs_count=3&theme=dark">
+<a href="https://github.com/zilliongd">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zilliongd&langs_count=3&theme=dark">
 </a>
 
 [![Discord](https://img.shields.io/static/v1?label=Discord&message=LukeSkywalker%231894&color=blue&style=for-the-badge)](https://discord.com/users/1020857426867671042)
